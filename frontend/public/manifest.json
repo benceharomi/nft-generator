@@ -1,0 +1,15 @@
+{
+  "short_name": "NFT Generator",
+  "name": "NFT Generator App ",
+  "icons": [
+    {
+      "src": "logo.jpeg",
+      "type": "image/png",
+      "sizes": "474x474"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
